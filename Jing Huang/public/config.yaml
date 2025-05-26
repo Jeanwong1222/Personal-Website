@@ -1,0 +1,46 @@
+baseurl: /
+languageCode: en-US
+title: "Jing's World"
+theme: hugo-lithium
+ignoreFiles:
+  - \.Rmd$
+  - \.Rmarkdown$
+  - _cache$
+permalinks:
+  post: /posts/:slug/
+menu:
+  main:
+    - name: About
+      url: /about/
+    - name: GitHub
+      url: https://github.com/Jeanwong1222
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/jing-huang-85645a292/
+    - name: ORCID
+      url: https://orcid.org/my-orcid?orcid=0009-0007-9235-6950
+params:
+  customCSS: ["assets/css/bg_custom.css"] 
+  MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
+  MathJaxVersion: 2.7.5
+  description: Jing Huang - PhD student at Purdue University.
+  favicon: favicon.ico
+  highlightjsCDN: //cdnjs.cloudflare.com/ajax/libs
+  highlightjsLang:
+    - r
+    - yaml
+  highlightjsTheme: github
+  highlightjsVersion: 9.12.0
+  logo:
+    alt: Jing_profile_1
+    height: 50
+    url: profile1.png
+    width: 50
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: yes
+  highlight:
+    codeFences: no
+
+
