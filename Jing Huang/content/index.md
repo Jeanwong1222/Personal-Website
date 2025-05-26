@@ -1,0 +1,114 @@
+---
+title: "Jing Huang"
+date: "2025-05-26"
+output:
+  html_document:
+    toc: false
+    toc_depth: 2  # Up to two depths of headings
+    toc_float:
+      collapsed: false
+      smooth_scroll: true
+      position: right
+    theme: united  # Many options for theme
+---
+<script src="{{< blogdown/postref >}}index_files/kePrint/kePrint.js"></script>
+<link href="{{< blogdown/postref >}}index_files/lightable/lightable.css" rel="stylesheet" />
+
+<style>
+/* Adjust general text line spacing */
+p {line-height: 1.75; font-size: 16px;}
+h1 {font-size: 24px; text-align: center;} 
+h2 {font-size: 22px; } 
+/* Adjust line spacing in numbered or bulleted lists */
+ul, ol {line-height: 1.5;}
+
+/* Split page layout */
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+/* Left side (photo + info) */
+.sidebar {
+  width: 30%;
+  padding-right: 20px;
+  border-right: 2px solid #ccc;
+  text-align: center;
+}
+
+/* Right side (main content) */
+.main {
+  width: 70%;
+  padding-left: 20px;
+}
+
+/* Optional: profile photo */
+.profile-pic {
+  border-radius: 50%;
+  width: 150px;
+  margin-bottom: 15px;
+}
+</style>
+
+<div class="container">
+<div class="sidebar">
+  <img src="images/profile1.png" class="profile-pic" alt="Jing Huang photo">
+
+  <p>Purdue University<br>
+  610 Purdue Mall<br>
+  West Lafayette <br>
+  IN 47907</p>
+
+  <p>Email: huan1936@purdue.edu</p>
+
+  <p>Welcome to my website!</p>
+</div>
+
+  <div class="main">
+  
+## Research Interests
+<hr style="border: none; border-top: 3px solid black; width: 100%; margin-top: 1px; margin-bottom: 5px;" />
+
+My research interests mainly focus on Generative AI, Computerized Adaptive Testing (CAT), Educational Process Data, Machine Learning, Item response theory (IRT), Educational assessment.
+
+## Education
+<hr style="border: none; border-top: 3px solid black; width: 100%; margin-top: 1px; margin-bottom: 5px;" />
+
+
+<table class="table table-striped table-hover table-condensed" style="font-size: 14px; width: auto !important; ">
+ <thead>
+  <tr>
+   <th style="text-align:left;font-weight: bold;font-size: 16px;"> Year </th>
+   <th style="text-align:left;font-weight: bold;font-size: 16px;"> Degree </th>
+   <th style="text-align:left;font-weight: bold;font-size: 16px;"> Institution </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;width: 23%; "> Aug.2023 - <br>Present </td>
+   <td style="text-align:left;width: 17%; "> PhD </td>
+   <td style="text-align:left;width: 60%; "> Purdue University<br>Educational Psychology and Research Methodology </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 23%; "> Sep.2020 – <br>Jun.2023 </td>
+   <td style="text-align:left;width: 17%; "> M.A. </td>
+   <td style="text-align:left;width: 60%; "> East China Normal University<br>Educational Psychology </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 23%; "> Sep.2016 – <br>Jun.2020 </td>
+   <td style="text-align:left;width: 17%; "> B.S. </td>
+   <td style="text-align:left;width: 60%; "> East China Normal University<br>Statistics </td>
+  </tr>
+</tbody>
+</table>
+
+## Latest News
+<hr style="border: none; border-top: 3px solid black; width: 100%; margin-top: 1px; margin-bottom: 5px;" />
+
+* <span style="color: Navy;"> *May 2025:* </span>  I received the **Psychometric Society Travel Award**, sponsored by Vector Psychometric Group. Our team plans to attend **IMPS 2025** at the University of Minnesota, July 15-18. I will present on "*Automatic Item Generation for Figure Reasoning Tests Using Generative AI*"
+
+* <span style="color: Navy;"> *August 2024:* </span>  I began my role as a Graduate Research Assistant in the **School of Engineering Education**, with employment running from August 12, 2024, to May 31, 2025. My responsibilities include conducting research, such as data collection, data analysis, and dissemination, under the supervision of Dr. Jason Morphew.
+
+
+
