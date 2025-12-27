@@ -6,46 +6,25 @@ ignoreFiles:
   - \.Rmd$
   - \.Rmarkdown$
   - _cache$
-<<<<<<< HEAD
-<<<<<<< HEAD
 permalinks:
   post: /posts/:slug/
 menu:
   main:
-    - name: About
-      url: /about/
-    - name: GitHub
-      url: https://github.com/Jeanwong1222
-    - name: LinkedIn
-      url: https://www.linkedin.com/in/jing-huang-85645a292/
-    - name: ORCID
-      url: https://orcid.org/my-orcid?orcid=0009-0007-9235-6950
-=======
-=======
->>>>>>> 8180868108dac1257e91417076fd1bcc0a85b265
-#permalinks:
-#  post: /posts/:slug/
-menu:
-  main:
     - name: Publications
       url: /publications/
-      weight: 1
+      weight: 2
     - name: Experiences
       url: /experiences/
-      weight: 2
+      weight: 3
+    - name: About
+      url: /about/
+      weight: 1
     - name: GitHub
       url: https://github.com/Jeanwong1222
-      weight: 4
     - name: LinkedIn
       url: https://www.linkedin.com/in/jing-huang-85645a292/
-      weight: 3
     - name: ORCID
       url: https://orcid.org/my-orcid?orcid=0009-0007-9235-6950
-      weight: 5
-<<<<<<< HEAD
->>>>>>> 8180868 (Deploy updated website)
-=======
->>>>>>> 8180868108dac1257e91417076fd1bcc0a85b265
 params:
   customCSS: ["assets/css/bg_custom.css"] 
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs

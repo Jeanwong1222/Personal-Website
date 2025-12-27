@@ -1,16 +1,18 @@
 ---
 title: "Experiences"
-date: "`r Sys.Date()`"
+author: "Jing Huang"
+date: "2025-12-26"
+categories: ["R"]
 output:
-  blogdown::html_page:
+  html_document:
     toc: true
     toc_depth: 2  # Up to two depths of headings
-    # theme: united  # Many options for theme
+    theme: united  # Many options for theme
 ---
 
 <style>
 /* Adjust general text line spacing */
-p {line-height: 1.75; font-size: 16px;}
+p {line-height: 1.75; font-size: 18px;}
 h1 {font-size: 24px; text-align: center;} 
 h2 {font-size: 22px; } 
 /* Adjust line spacing in numbered or bulleted lists */
@@ -95,40 +97,3 @@ ul, ol {line-height: 1.5;}
 - Analyzed data using contingency tables  
 
 ---
-
-
-## Awards, Honors, & Fellowships
-<hr style="border: none; border-top: 3px solid black; width: 100%; margin-top: 1px; margin-bottom: 5px;" />
-
-```{r, warning=FALSE,echo=FALSE, message=FALSE}
-# Load necessary libraries
-library(tibble)
-library(knitr)  # Optional, for kable to display tables
-library(kableExtra)
-
-# Create a tribble
-data <- tribble(
-  ~Year, ~Content,
-  "May 2025", "Psychometric Society Travel Award",
-  "April 2025", "NCME Travel Award",
-  "Mar. 2023", "Ross Fellowship",
-  "Oct. 2022", "National Scholarship",
-  "Oct. 2022", "Outstanding Student",
-  "Oct. 2021", "Shu Qing Encouragement Scholarship",
-  "Dec. 2020", "The Third Prize in the Contemporary Graduate Statistical Contest in Modeling",
-  "July 2020", "The Second Prize in the COVID-19 Data Analysis Contest",
-  "Nov. 2019", "The Third Prize for the Contemporary Undergraduate Statistical Contest in Modeling",
-  "Nov. 2019", "Shanghai Popular Science Education Innovation Award",
-  "Feb. 2019", "The Meritorious Winner in the Interdisciplinary Contest in Modeling (ICM)",
-)
-
-# Display the table with adjustable column widths, no full width, and text size adjustments
-kable(data, "html", escape = FALSE) %>%
-  kable_styling(bootstrap_options = c("striped", "hover", "condensed"), 
-                full_width = F, 
-                position = "left", 
-                font_size = 18) %>%   # Adjust the overall font size of the table
-  row_spec(0, bold = TRUE, font_size = 20) %>%  # Adjust font size and boldness for the header
-  column_spec(1, width = "30%") %>%  # Adjust column width for Year
-  column_spec(2, width = "70%")   # Adjust column width for Degree
-```

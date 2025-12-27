@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jing Huang on Jing&#39;s World</title>
-    <link>/</link>
-    <description>Recent content in Jing Huang on Jing&#39;s World</description>
+    <title>R on Jing&#39;s World</title>
+    <link>/categories/r/</link>
+    <description>Recent content in R on Jing&#39;s World</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Experiences</title>
       <link>/experiences/</link>
@@ -17,10 +17,10 @@
     </item>
     <item>
       <title>Jing Huang</title>
-      <link>/about/</link>
+      <link>/</link>
       <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>/about/</guid>
-      <description>&lt;style&gt;&#xA;/* Adjust general text line spacing */&#xA;p {line-height: 1.75; font-size: 18px;}&#xA;h1 {font-size: 24px; text-align: center;} &#xA;h2 {font-size: 22px; } &#xA;/* Adjust line spacing in numbered or bulleted lists */&#xA;ul, ol {line-height: 1.5;}&#xA;&lt;/style&gt;&#xA;&lt;p&gt;Purdue University&lt;/p&gt;&#xA;&lt;p&gt;610 Purdue Mall, West Lafayette, IN 47907&lt;/p&gt;&#xA;&lt;p&gt;E-mail: &lt;a href=&#34;mailto:huan1936@purdue.edu&#34;&gt;huan1936@purdue.edu&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;&#xA;&lt;hr style=&#34;border: none; border-top: 3px solid black; width: 100%; margin-top: 1px; margin-bottom: 5px;&#34; /&gt;&#xA;&lt;p&gt;My research interests mainly focus on CD-CAT, Statistics, Item response theory (IRT) and its applications, Psychometrics, Educational assessment, Process and category data analysis, Machine learning.&lt;/p&gt;</description>
+      <guid>/</guid>
+      <description>&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;&#xA;&lt;link href=&#34;/rmarkdown-libs/lightable/lightable.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xA;&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;&#xA;&lt;link href=&#34;/rmarkdown-libs/lightable/lightable.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xA;&lt;style&gt;&#xA;/* Adjust general text line spacing */&#xA;p {line-height: 1.75; font-size: 18px;}&#xA;h1 {font-size: 24px; text-align: center;} &#xA;h2 {font-size: 22px; } &#xA;/* Adjust line spacing in numbered or bulleted lists */&#xA;ul, ol {line-height: 1.5;}&#xA;&lt;/style&gt;&#xA;&lt;p&gt;Welcome to my website! I am a Ph.D. candidate in Educational Psychology and Research Methodology at Purdue University, under the guidance of Professor Hua-Hua Chang. If you’d like to get in touch, please click on “&lt;strong&gt;About&lt;/strong&gt;” or “&lt;strong&gt;LinkedIn&lt;/strong&gt;” at the top right corner.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Publications</title>

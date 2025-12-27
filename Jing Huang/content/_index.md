@@ -1,81 +1,20 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="generator" content="Hugo 0.134.2">
-
-
-<title>Jing&#39;s World</title>
-<meta property="og:title" content="Jing&#39;s World">
-<meta property="og:type" content="website">
-
-
-  <link href='/favicon.ico' rel='icon' type='image/x-icon'/>
-
-
-
-<meta property="description" content="Jing Huang - PhD student at Purdue University.">
-
-
-
-
-
-<link href="/index.xml" rel="alternate" type="application/rss+xml" title="Jing&#39;s World" />
-
-
-
-<link rel="stylesheet" href="/css/fonts.css" media="all">
-<link rel="stylesheet" href="/css/main.css" media="all">
-
-<link rel="stylesheet" href="/assets/css/bg_custom.css">
-
-
-
-  </head>
-  <body>
-    <div class="wrapper">
-      <header class="header">
-        <nav class="nav">
-  <a href="/" class="nav-logo">
-    <img src="/images/profile1.png"
-         width="50"
-         height="50"
-         alt="Jing_profile_1">
-  </a>
-
-  <ul class="nav-links">
-    
-    <li><a href="/about/">About</a></li>
-    
-    <li><a href="/publications/">Publications</a></li>
-    
-    <li><a href="/experiences/">Experiences</a></li>
-    
-    <li><a href="https://github.com/Jeanwong1222">GitHub</a></li>
-    
-    <li><a href="https://www.linkedin.com/in/jing-huang-85645a292/">LinkedIn</a></li>
-    
-    <li><a href="https://orcid.org/my-orcid?orcid=0009-0007-9235-6950">ORCID</a></li>
-    
-  </ul>
-</nav>
-
-      </header>
-
-
-<main class="content" role="main">
-
-  
-  <article class="article">
-    
-    <h1 class="article-title">Jing Huang</h1>
-    
-    <div class="article-content">
-      <script src="/rmarkdown-libs/kePrint/kePrint.js"></script>
+---
+title: "Jing Huang"
+author: "Jing Huang"
+date: "2025-12-26"
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
+output:
+  html_document:
+    toc: true
+    toc_depth: 2  # Up to two depths of headings
+    theme: united  # Many options for theme
+---
+<script src="/rmarkdown-libs/kePrint/kePrint.js"></script>
 <link href="/rmarkdown-libs/lightable/lightable.css" rel="stylesheet" />
 <script src="/rmarkdown-libs/kePrint/kePrint.js"></script>
 <link href="/rmarkdown-libs/lightable/lightable.css" rel="stylesheet" />
+
 <style>
 /* Adjust general text line spacing */
 p {line-height: 1.75; font-size: 18px;}
@@ -84,9 +23,14 @@ h2 {font-size: 22px; }
 /* Adjust line spacing in numbered or bulleted lists */
 ul, ol {line-height: 1.5;}
 </style>
-<p>Welcome to my website! I am a Ph.D. candidate in Educational Psychology and Research Methodology at Purdue University, under the guidance of Professor Hua-Hua Chang. If you’d like to get in touch, please click on “<strong>About</strong>” or “<strong>LinkedIn</strong>” at the top right corner.</p>
-<h2 id="education">Education</h2>
+
+
+Welcome to my website! I am a Ph.D. candidate in Educational Psychology and Research Methodology at Purdue University, under the guidance of Professor Hua-Hua Chang. If you’d like to get in touch, please click on “**About**” or “**LinkedIn**” at the top right corner.
+
+## Education
 <hr style="border: none; border-top: 3px solid black; width: 100%; margin-top: 1px; margin-bottom: 5px;" />
+
+
 <table class="table table-striped table-hover table-condensed" style="font-size: 18px; width: auto !important; ">
  <thead>
   <tr>
@@ -113,8 +57,10 @@ ul, ol {line-height: 1.5;}
   </tr>
 </tbody>
 </table>
-<h2 id="awards-honors--fellowships">Awards, Honors, &amp; Fellowships</h2>
+
+## Awards, Honors, & Fellowships
 <hr style="border: none; border-top: 3px solid black; width: 100%; margin-top: 1px; margin-bottom: 5px;" />
+
 <table class="table table-striped table-hover table-condensed" style="font-size: 18px; width: auto !important; ">
  <thead>
   <tr>
@@ -162,38 +108,6 @@ ul, ol {line-height: 1.5;}
 </tbody>
 </table>
 
-    </div>
-  </article>
-  
-  <div class="archive">
-    
-    
-    
-    
-    
-  </div>
+	
 
-</main>
-
-      <footer class="footer">
-        <ul class="footer-links">
-          
-          <li>
-            <a href="/index.xml" type="application/rss+xml" target="_blank">RSS feed</a>
-          </li>
-          
-          <li>
-            <a href="https://gohugo.io/" class="footer-links-kudos">Made with <img src="/images/hugo-logo.png" alt="Img link to Hugo website" width="22" height="22"></a>
-          </li>
-        </ul>
-      </footer>
-
-    </div>
-    
-
-    
-
-    
-  </body>
-</html>
 
