@@ -22,6 +22,7 @@ ul, ol {line-height: 1.5;}
 
 ## Contents
 - [Journal Articles](#journal-articles)
+- [Book Chapters](#book-chapters)
 - [Conference Presentations](#conference-presentations)
 - [Works in Progress](#under-going)
 
@@ -52,19 +53,19 @@ ul, ol {line-height: 1.5;}
 </li>
 
 <li style="margin-bottom: 15px; text-indent: -25px; padding-left: 25px; font-size: 16px;">
-  Mo, F., <strong>Huang, J.</strong>, Yang, Y., Özen, Z., Maeda, Y., & Olenchak, F. R. (2025). <a href="https://www.sciencedirect.com/science/article/pii/S2666920X25001766" target="_blank" style="color: black; text-decoration: none;"><em>Undergraduate Students' Learning Outcomes with ChatGPT: A Meta-Analytic Study.</em></a> <em>Computers and Education: Artificial Intelligence</em>, 100536.
+  Mo, F., <strong>Huang, J.</strong>, Yang, Y., Özen, Z., Maeda, Y., & Olenchak, F. R. (2025). <a href="https://www.sciencedirect.com/science/article/pii/S2666920X25001766" target="_blank" style="color: black; text-decoration: none;">Undergraduate Students' Learning Outcomes with ChatGPT: A Meta-Analytic Study.</a> <em>Computers and Education: Artificial Intelligence</em>, 100536.
 </li>
 
 <li style="margin-bottom: 15px; text-indent: -25px; padding-left: 25px; font-size: 16px;">
-  <strong>Huang, J.</strong>, Zhang, Y. X., Morphew, J. W., Nissen, J. M., Van Dusen, B., & Chang, H-H. (2025). <a href="https://onlinelibrary.wiley.com/doi/pdf/10.1111/jedm.70012" target="_blank" style="color: black; text-decoration: none;"><em>Two-phase Content-balancing CD-CAT Online Item Calibration.</em></a> <em>Journal of Educational Measurement</em>, <em>62</em>(4), 787-808.
+  <strong>Huang, J.</strong>, Zhang, Y. X., Morphew, J. W., Nissen, J. M., Van Dusen, B., & Chang, H-H. (2025). <a href="https://onlinelibrary.wiley.com/doi/pdf/10.1111/jedm.70012" target="_blank" style="color: black; text-decoration: none;">Two-phase Content-balancing CD-CAT Online Item Calibration.</a> <em>Journal of Educational Measurement</em>, <em>62</em>(4), 787-808.
 </li>
 
 <li style="margin-bottom: 15px; text-indent: -25px; padding-left: 25px; font-size: 16px;">
-  <strong>Huang, J.</strong>, Xin, Y. P., & Chang, H-H. (2025). <a href="https://www.mdpi.com/2227-7102/15/7/888" target="_blank" style="color: black; text-decoration: none;"><em>The Application of Machine Learning to Educational Process Data Analysis: A Systematic Review.</em></a> <em>Education Sciences</em>, <em>15</em>(7), 888. 
+  <strong>Huang, J.</strong>, Xin, Y. P., & Chang, H-H. (2025). <a href="https://www.mdpi.com/2227-7102/15/7/888" target="_blank" style="color: black; text-decoration: none;">The Application of Machine Learning to Educational Process Data Analysis: A Systematic Review.</a> <em>Education Sciences</em>, <em>15</em>(7), 888. 
 </li>
 
 <li style="margin-bottom: 15px; text-indent: -25px; padding-left: 25px; font-size: 16px;">
-  Zheng, C., Liu, J., Li, Y., Xu, P., Zhang, B., Wei, R., Liu, B., & <strong>Huang, J.</strong> (2024). <a href="https://link.springer.com/article/10.3758/s13428-023-02315-x" target="_blank" style="color: black; text-decoration: none;"><em>A 2PLM-RANK multidimensional forced-choice model and its fast estimation algorithm.</em></a> <em>Behavior Research Methods</em>, 1-26.
+  Zheng, C., Liu, J., Li, Y., Xu, P., Zhang, B., Wei, R., Liu, B., & <strong>Huang, J.</strong> (2024). <a href="https://link.springer.com/article/10.3758/s13428-023-02315-x" target="_blank" style="color: black; text-decoration: none;">A 2PLM-RANK multidimensional forced-choice model and its fast estimation algorithm.</a> <em>Behavior Research Methods</em>, 1-26.
 </li>
 
 <li style="margin-bottom: 15px; text-indent: -25px; padding-left: 25px; font-size: 16px;">
@@ -86,7 +87,28 @@ ul, ol {line-height: 1.5;}
 </ol>
 </div>
 
+# Book Chapters {#book-chapters}
 
+<div style="
+  background-color: #f8f9fa;
+  border-left: 5px solid #3498db;
+  padding: 5px 10px;
+  border-radius: 8px;
+  margin-bottom: 30px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+">
+<ol style="padding-left: 25px;">
+
+<li style="margin-bottom: 15px; text-indent: -25px; padding-left: 25px; font-size: 16px;">
+  Zhang, Y.X., <strong>Huang, J.</strong>, & Chang, H-H. (2025). <a href="https://doi.org/10.1016/B978-0-443-26629-4.00043-5" target="_blank" style="color: black; text-decoration: none;"><em>Innovative computerized test items.</em></a> In Encyclopedia of social measurement.
+</li>
+
+<li style="margin-bottom: 15px; text-indent: -25px; padding-left: 25px; font-size: 16px;">
+  Wang, S.Y., <strong>Huang, J.</strong>, & Chang, H-H. (in press) <em>Computerized adaptive testing for STEM learning</em>. In Artificial intelligence for STEM education research: Advanced methods and applications. Springer.
+</li>
+
+</ol>
+</div>
 
 # Conference Presentations {#conference-presentations}
 
