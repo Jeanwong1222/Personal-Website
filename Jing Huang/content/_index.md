@@ -17,96 +17,48 @@ output:
 
 <style>
 /* Adjust general text line spacing */
-p {line-height: 1.75; font-size: 18px;}
-h1 {font-size: 24px; text-align: center;} 
+p {line-height: 1.75; font-size: 16px;}
+h1 {font-size: 22px; text-align: center;} 
 h2 {font-size: 22px; } 
 /* Adjust line spacing in numbered or bulleted lists */
 ul, ol {line-height: 1.5;}
 </style>
 
 
-Welcome to my website! I am a Ph.D. candidate in Educational Psychology and Research Methodology at Purdue University, under the guidance of Professor Hua-Hua Chang. If you’d like to get in touch, please click on “**About**” or “**LinkedIn**” at the top right corner.
+<div style="
+    background-color: #f8f9fa;
+    border-left: 5px solid #3498db;
+    padding: 25px;
+    border-radius: 8px;
+    margin-bottom: 30px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+">
+  <p style="margin-bottom: 0; color: #2c3e50; font-size: 16px; line-height: 1.6;">
+    Welcome to my academic website! I am a Ph.D. candidate in <strong style="color: #2980b9;">Educational Psychology and Research Methodology</strong> at Purdue University, working under the guidance of Professor <strong style="color: #2980b9;">Hua-Hua Chang</strong>. My research focuses on psychometrics, educational measurement, statistical modeling, and large language models.
+  </p>
+  
+  <p style="margin-bottom: 10px; color: #2c3e50; font-size: 16px; line-height: 1.6;">
+    With a strong background in <strong style="color: #2980b9;">Statistics</strong> from East China Normal University and ongoing doctoral training at Purdue, I specialize in <strong style="color: #2980b9;">online calibration</strong>, <strong style="color: #2980b9;">computerized adaptive testing (CAT)</strong>, and <strong style="color: #2980b9;">process data analysis</strong>. My work aims to bridge methodological rigor with practical applications in educational settings.
+  </p>
+  
+  <p style="margin-bottom: 0; color: #2c3e50; font-size: 16px; line-height: 1.6;">
+    Explore this site to learn more about my <strong style="color: #2980b9;"><a href="/publications" style="color: #2980b9; text-decoration: none;">publications</a></strong>, and <strong style="color: #2980b9;"><a href="/experiences" style="color: #2980b9; text-decoration: none;">research experience</a></strong>. For collaboration inquiries or to connect professionally, please visit the "<strong style="color: #2980b9;"><a href="/about" style="color: #2980b9; text-decoration: none;">About</a></strong>" page or find me on <strong style="color: #2980b9;"><a href="https://www.linkedin.com/in/yourprofile" style="color: #2980b9; text-decoration: none;">LinkedIn</a></strong>.
+  </p>
+</div>
 
-## Education
+## Latest News
 <hr style="border: none; border-top: 3px solid black; width: 100%; margin-top: 1px; margin-bottom: 5px;" />
 
+* <span style="color: Navy;"> *October 2025:* </span> Two **AERA** and one **NCME** proposals were accepted. Looking forward to seeing you in LA in 2026!
 
-<table class="table table-striped table-hover table-condensed" style="font-size: 18px; width: auto !important; ">
- <thead>
-  <tr>
-   <th style="text-align:left;font-weight: bold;font-size: 20px;"> Year </th>
-   <th style="text-align:left;font-weight: bold;font-size: 20px;"> Degree </th>
-   <th style="text-align:left;font-weight: bold;font-size: 20px;"> Institution </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:left;width: 20%; "> Aug.2023 - <br>Present </td>
-   <td style="text-align:left;width: 15%; "> PhD </td>
-   <td style="text-align:left;width: 65%; "> Purdue University<br>Educational Psychology and Research Methodology </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 20%; "> Sep.2020 – <br>Jun.2023 </td>
-   <td style="text-align:left;width: 15%; "> M.A. </td>
-   <td style="text-align:left;width: 65%; "> East China Normal University<br>Educational Psychology </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 20%; "> Sep.2016 – <br>Jun.2020 </td>
-   <td style="text-align:left;width: 15%; "> B.S. </td>
-   <td style="text-align:left;width: 65%; "> East China Normal University<br>Statistics </td>
-  </tr>
-</tbody>
-</table>
+* <span style="color: Navy;"> *August 2025:* </span>  I started working as a Graduate Teaching Assistant in the **Department of Educational Studies**, supporting EDPS 32700: Classroom Assessment. I assist with course activities and instruction under the supervision of Dr. Anne Traynor.
 
-## Awards, Honors, & Fellowships
-<hr style="border: none; border-top: 3px solid black; width: 100%; margin-top: 1px; margin-bottom: 5px;" />
+* <span style="color: Navy;"> *July 2025:* </span> I received the **2025 Psychometric Society Vector Travel Award** for my work on automatic item generation.
 
-<table class="table table-striped table-hover table-condensed" style="font-size: 18px; width: auto !important; ">
- <thead>
-  <tr>
-   <th style="text-align:left;font-weight: bold;font-size: 20px;"> Year </th>
-   <th style="text-align:left;font-weight: bold;font-size: 20px;"> Content </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:left;width: 30%; "> Mar. 2023 </td>
-   <td style="text-align:left;width: 70%; "> Ross Fellowship </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 30%; "> Oct. 2022 </td>
-   <td style="text-align:left;width: 70%; "> National Scholarship </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 30%; "> Oct. 2022 </td>
-   <td style="text-align:left;width: 70%; "> Outstanding Student </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 30%; "> Oct. 2021 </td>
-   <td style="text-align:left;width: 70%; "> Shu Qing Encouragement Scholarship </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 30%; "> Dec. 2020 </td>
-   <td style="text-align:left;width: 70%; "> The Third Prize in the Contemporary Graduate Statistical Contest in Modeling </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 30%; "> Jul. 2020 </td>
-   <td style="text-align:left;width: 70%; "> The Second Prize in the COVID-19 Data Analysis Contest </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 30%; "> Nov. 2019 </td>
-   <td style="text-align:left;width: 70%; "> The Third Prize for the Contemporary Undergraduate Statistical Contest in Modeling </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 30%; "> Nov. 2019 </td>
-   <td style="text-align:left;width: 70%; "> Shanghai Popular Science Education Innovation Award </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 30%; "> Feb. 2019 </td>
-   <td style="text-align:left;width: 70%; "> The Meritorious Winner in the Interdisciplinary Contest in Modeling (ICM) </td>
-  </tr>
-</tbody>
-</table>
+* <span style="color: Navy;"> *August 2024:* </span>  I began my role as a Graduate Research Assistant in the **School of Engineering Education** (August 12, 2024 - May 31, 2025), focusing on data collection, analysis, and research dissemination under the supervision of Dr. Jason Morphew.
+
+* <span style="color: Navy;"> *March 2023:* </span> I was awarded the Purdue University **Ross Fellowship**, which provides four years of funding, including a stipend and full tuition support.
+
 
 	
 

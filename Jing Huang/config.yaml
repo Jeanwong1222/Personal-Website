@@ -24,7 +24,7 @@ menu:
     - name: LinkedIn
       url: https://www.linkedin.com/in/jing-huang-85645a292/
     - name: ORCID
-      url: https://orcid.org/my-orcid?orcid=0009-0007-9235-6950
+      url: https://orcid.org/0009-0007-9235-6950
 params:
   customCSS: ["assets/css/bg_custom.css"] 
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
